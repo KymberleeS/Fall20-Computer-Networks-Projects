@@ -1,0 +1,13 @@
+
+c
+java:S21424"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8øµÚÀÛ.
+\
+java:S4973ç"9Use the "equals" method if value comparison was intended.(Â§¡æøÿÿÿÿ8¥×ÃÀÛ.
+X
+java:S1141Æ"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8½˜ÛÀÛ.
+W
+java:S11412"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8øµÚÀÛ.
+o
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 83 to the 15 allowed.(Çµí‘8±Çª¥Û.
+d
+java:S2142È"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8½˜ÛÀÛ.
